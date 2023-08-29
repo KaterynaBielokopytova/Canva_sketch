@@ -1,2 +1,2 @@
 # Canva_sketch
-Introduction to know сanva.
+Introduction to сanva.
