@@ -1,8 +1,8 @@
 {
-  "name": "canva_sketch",
+  "name": "sketches",
   "version": "1.0.0",
-  "description": "Introduction to сanva.",
-  "main": "index.js",
+  "description": "",
+  "main": "sketch-01.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
